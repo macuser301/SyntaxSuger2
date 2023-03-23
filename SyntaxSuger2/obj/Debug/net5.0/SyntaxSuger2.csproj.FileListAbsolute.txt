@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.AssemblyInfo.cs
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.exe
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.deps.json
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.runtimeconfig.json
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.dll
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\ref\SyntaxSuger2.dll
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\bin\Debug\net5.0\SyntaxSuger2.pdb
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.dll
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\ref\SyntaxSuger2.dll
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.pdb
+C:\Users\Robz PC\repos\SyntaxSuger2\SyntaxSuger2\obj\Debug\net5.0\SyntaxSuger2.genruntimeconfig.cache
